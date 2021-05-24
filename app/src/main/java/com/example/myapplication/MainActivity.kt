@@ -97,7 +97,7 @@ fun PopulateUi() {
         }
     }
 }
-
+@Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
     MyApplicationTheme {
